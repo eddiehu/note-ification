@@ -3,8 +3,8 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- Launcher foreground: white note glyph -->
+    <!-- Launcher foreground: white rounded rect, wider than tall, on blue -->
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M38,28 h26 l14,14 v38 h-40 Z M64,28 v14 h14 Z M46,50 h16 v4 H46 Z M46,58 h16 v4 H46 Z M46,66 h10 v4 H46 Z" />
+        android:pathData="M32,42 h44 a10,10 0 0 1 10,10 v4 a10,10 0 0 1 -10,10 h-44 a10,10 0 0 1 -10,-10 v-4 a10,10 0 0 1 10,-10 Z" />
 </vector>
